@@ -1,6 +1,6 @@
 # Sobre el proyecto
 
-Se trata de un e-commerce para venden todo lo relacionado del mundo de los rolllers
+Se trata de un e-commerce para venden todo lo relacionado del mundo de los rollers.
 
 
 ## Dependencias usadas
