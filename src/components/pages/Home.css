@@ -1,0 +1,33 @@
+.img-container1,
+.img-container2,
+.img-container3 {
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+    overflow: hidden;
+
+    background-size: cover;
+}
+
+.img-container1 {
+    background-image: url('/public/images/rollers1.jpg');
+}
+
+.img-container2 {
+    background-image: url('/public/images/rollers2.jpg');
+}
+
+.img-container3 {
+    background-image: url('/public/images/rollers3.jpg');
+}
+
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 65px;
+}
+
+p {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}

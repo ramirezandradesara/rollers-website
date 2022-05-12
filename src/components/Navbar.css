@@ -9,22 +9,21 @@ nav {
     justify-content: center;
 }
 
-
 .navbar-list {
     display: inline-flex;
     list-style: none;
     text-decoration: none;
     flex-direction: row;
-   padding-left: 50px;
-
+    padding-left: 50px;
     width: 100%;
     color: #fff;
 }
 
 .navbar-link {
+    font-family: 'Bebas Neue', cursive;
     text-decoration: none;
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     padding: 25px;
 }
@@ -32,7 +31,6 @@ nav {
 .navbar-link {
     text-decoration: none;
 }
-
 
 .navbar-logo {
     display: inline-flex;
@@ -43,8 +41,10 @@ nav {
 }
 
 .navbar-name {
+    font-family: 'Bebas Neue', cursive;
     color: #fff;
     text-decoration: none;
+    font-size: 20px;
 }
 
 .logo-icon {
@@ -55,7 +55,7 @@ nav {
 }
 
 .navbar-link:hover {
-    background-color: #fff;
-    color: #242424;
-    border-radius: 0;
-  }
+    background-color: rgba(255, 255, 255, 0.136);
+    color: #fff;
+    border-radius: 100px;
+}
