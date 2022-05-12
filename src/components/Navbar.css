@@ -17,6 +17,8 @@ nav {
     padding-left: 50px;
     width: 100%;
     color: #fff;
+    margin-top: 15px;
+    
 }
 
 .navbar-link {
@@ -25,7 +27,7 @@ nav {
     color: #fff;
     font-size: 20px;
     text-transform: uppercase;
-    padding: 25px;
+    padding: 9px 20px 9px;
 }
 
 .navbar-link {

@@ -31,3 +31,7 @@ p {
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
 }
+
+.home-page{
+    animation: fadeIn 1s 1.7s backwards;
+}
