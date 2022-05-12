@@ -7,12 +7,12 @@ Se trata de un e-commerce para venden todo lo relacionado del mundo de los rolll
 
 React icons
 
-npm install react-icons --save
+    npm install react-icons --save
 
 React Router
 
-npm i react-router-dom
+    npm i react-router-dom
 
 React-Bootstrap
 
-npm install react-bootstrap bootstrap
+    npm install react-bootstrap bootstrap
