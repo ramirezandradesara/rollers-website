@@ -53,3 +53,9 @@ nav {
     padding-left: 5px;
     font-size: 40px;
 }
+
+.navbar-link:hover {
+    background-color: #fff;
+    color: #242424;
+    border-radius: 0;
+  }
